@@ -1,6 +1,6 @@
 # Python Tkinter GUI Application Suite
 
-![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+![Python](https://img.shields.io/badge/python-3.11.0-blue.svg)
 ![Tkinter](https://img.shields.io/badge/Library-Tkinter-orange.svg)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-lightgrey.svg)
 ![Persistence](https://img.shields.io/badge/Storage-JSON%20%7C%20TXT-yellow.svg)
