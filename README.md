@@ -11,7 +11,7 @@ A collection of desktop applications developed to demonstrate **CRUD (Create, Re
 
 ## 📂 Included Applications
 
-### 1. Employee Management System (`GUIxMySQL(xampp).py`). (Random Activity)
+### 1. Employee Management System (`GUIxMySQL(xampp).py`) (Random Activity).
 A professional-grade administrative tool designed to manage staff records via a MySQL backend.
 * **Database Integration**: Connects to a local MySQL server (XAMPP default).
 * **Dynamic Data Table**: Uses `ttk.Treeview` to display employee ID, Name, and Department.
