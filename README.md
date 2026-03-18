@@ -11,20 +11,20 @@ A collection of desktop applications developed to demonstrate **CRUD (Create, Re
 
 ## 📂 Included Applications
 
-### 1. Employee Management System (`GUIxMySQL(xampp).py`)
+### 1. Employee Management System (`GUIxMySQL(xampp).py`). (Random Activity)
 A professional-grade administrative tool designed to manage staff records via a MySQL backend.
 * **Database Integration**: Connects to a local MySQL server (XAMPP default).
 * **Dynamic Data Table**: Uses `ttk.Treeview` to display employee ID, Name, and Department.
 * **Full CRUD**: Supports adding new records, updating existing entries via ID selection, and deleting specific rows.
 * **Event Handling**: Features a selection bind that auto-populates input fields when a row is clicked.
 
-### 2. Structured To-Do List (`ToDo_List_GUI_app(custom_tkinter).py`)
+### 2. Structured To-Do List (`ToDo_List_GUI_app(custom_tkinter).py`) (Made with Perplexity).
 A task manager focused on data integrity and structured storage.
 * **JSON Persistence**: Saves and loads tasks from `tasks.json`, preserving the list structure across sessions.
 * **Safe Exit**: Includes a `WM_DELETE_WINDOW` protocol that prompts the user before quitting and performs a final save.
 * **UI Feedback**: Utilizes colored buttons (Green for Add, Red for Delete) for intuitive navigation.
 
-### 3. Lightweight To-Do List (`To-Do_List_GUI(tkinter)_Application.py`)
+### 3. Lightweight To-Do List (`To-Do_List_GUI(tkinter)_Application.py`) (Made with VTUxEdutainer_Internship).
 A simple, high-readability task tracker using flat-file storage.
 * **TXT Storage**: Writes tasks to a simple `tasks.txt` file using line-breaks.
 * **Visual Focus**: Features large "Times New Roman" headings for better accessibility.
